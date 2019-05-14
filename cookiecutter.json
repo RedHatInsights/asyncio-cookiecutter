@@ -1,5 +1,5 @@
 {
-  "project_name": "{{ cookiecutter.project_name }}",
+  "project_name": "My Awesome Project",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
   "inbound_topic": "your_inbound_topic",
   "outbound_topic": "your_outbound_topic"
